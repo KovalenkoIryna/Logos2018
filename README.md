@@ -14,7 +14,7 @@
 
 # - Windows systeminfo
 
-## 2.1 Деактивувати створеного користувача не видаляючи обліковий запис
+## 2.1 Створити директорію C:\Results
 
 ![alt text](https://raw.githubusercontent.com/KovalenkoIryna/Logos2018/master/img/Capture%202.1.PNG)
 
