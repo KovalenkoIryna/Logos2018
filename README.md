@@ -12,7 +12,7 @@
 
 ![alt text](https://raw.githubusercontent.com/KovalenkoIryna/Logos2018/master/img/Capture%201.3.PNG)
 
-# - Windows systeminfo
+# - Windows system info
 
 ## 2.1 Створити директорію C:\Results
 
