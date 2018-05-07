@@ -49,7 +49,7 @@
 
 ![alt text](https://raw.githubusercontent.com/KovalenkoIryna/Logos2018/master/img/Capture%203.2.PNG)
 
-## 3.3 Встановити квоту на користувача firstname_lastname в розмірі: hardquota - 100МБ, softquota - 50МБ
+## 3.3 Встановити квоту на користувача firstname_lastname в розмірі: hard quota - 100МБ, soft quota - 50МБ
 
 ![alt text](https://raw.githubusercontent.com/KovalenkoIryna/Logos2018/master/img/Capture%203.3.PNG)
 
