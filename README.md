@@ -58,3 +58,14 @@
 ![alt text](https://raw.githubusercontent.com/KovalenkoIryna/Logos2018/master/img/Capture%203.4.PNG)
 
 ![alt text](https://raw.githubusercontent.com/KovalenkoIryna/Logos2018/master/img/Capture%203.4-1.PNG)
+
+
+## 4 Стоврити локального користувача "Test" з паролем "Test" і розмашири доступ до папки "Logos2018"
+
+![alt text](https://raw.githubusercontent.com/KovalenkoIryna/Logos2018/master/img/Capture%2011.PNG)
+
+![alt text](https://raw.githubusercontent.com/KovalenkoIryna/Logos2018/master/img/Capture%2012.PNG)
+
+![alt text](https://raw.githubusercontent.com/KovalenkoIryna/Logos2018/master/img/Capture%2013.PNG)
+
+![alt text](https://raw.githubusercontent.com/KovalenkoIryna/Logos2018/master/img/Capture%2014.PNG)
